@@ -1,3 +1,5 @@
+This is a copy of https://github.com/HazAT/badge/pull/70/files
+
 badge - add a badge to your tvOS/iOS/Android app icon
 ============
 
